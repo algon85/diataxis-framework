@@ -1,3 +1,4 @@
+![Status](https://img.shields.io/badge/Status-In--Progress-success)
 ![Documentation](https://img.shields.io/badge/Framework-Diátaxis-blue)
 
 # Diátaxis Framework (Reference Repository)
