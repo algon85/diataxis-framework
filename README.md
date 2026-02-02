@@ -1,3 +1,5 @@
+![Documentation](https://img.shields.io/badge/Framework-Diátaxis-blue)
+
 # Diátaxis Framework (Reference Repository)
 
 This repository exists to provide a **single, canonical explanation** of the **Diátaxis documentation framework** as it is used across my GitHub projects.
